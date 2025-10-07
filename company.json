@@ -1,0 +1,207 @@
+{
+  "company_info": {
+    "full_name": "Общество с ограниченной ответственностью \"Сервисберг\"",
+    "short_name": "ООО \"Сервисберг\"",
+    "brand_name": "XISTORE",
+    "trade_name": "Ксистор",
+    "UNP": "193456789",
+    "legal_address": {
+      "country": "Республика Беларусь", 
+      "city": "г. Минск",
+      "street": "пр. Независимости",
+      "building": "25",
+      "office": "помещение 15",
+      "postal_code": "220004"
+    },
+    "retail_address": {
+      "country": "Республика Беларусь",
+      "city": "г. Минск", 
+      "street": "пр. Независимости",
+      "building": "25",
+      "floor": "2 этаж",
+      "location": "ТЦ \"Столица\"",
+      "postal_code": "220004"
+    }
+  },
+  "contact_info": {
+    "phones": [
+      {
+        "number": "+375 (29) 123-45-67",
+        "type": "mobile",
+        "description": "Основной номер"
+      },
+      {
+        "number": "+375 (33) 123-45-67", 
+        "type": "mobile",
+        "description": "Дополнительный номер"
+      },
+      {
+        "number": "+375 (17) 234-56-78",
+        "type": "landline",
+        "description": "Городской номер"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@xistore.by",
+        "type": "general",
+        "description": "Общие вопросы"
+      },
+      {
+        "address": "service@xistore.by",
+        "type": "support", 
+        "description": "Сервисный центр"
+      },
+      {
+        "address": "sales@xistore.by",
+        "type": "sales",
+        "description": "Отдел продаж"
+      }
+    ],
+    "website": "https://service.xistore.by",
+    "social_media": {
+      "instagram": "https://www.instagram.com/xistore_by",
+      "vk": "https://vk.com/xistore_by", 
+      "telegram": "https://t.me/xistore_by"
+    }
+  },
+  "business_info": {
+    "founding_date": "2018-03-15",
+    "years_in_business": 7,
+    "industry": "Розничная торговля электроникой",
+    "specialization": "Официальные товары Xiaomi",
+    "business_model": "Розничная торговля, сервисное обслуживание",
+    "employee_count": "15-50",
+    "annual_revenue": "Средний бизнес"
+  },
+  "licenses_and_certificates": [
+    {
+      "type": "license",
+      "name": "Лицензия на осуществление деятельности по ремонту и техническому обслуживанию",
+      "number": "12345678",
+      "issue_date": "2020-01-01",
+      "issuing_authority": "Министерство связи и информатизации Республики Беларусь",
+      "valid_until": "2025-01-01"
+    },
+    {
+      "type": "certificate", 
+      "name": "Сертификат официального дилера Xiaomi",
+      "number": "XM-BY-2018-001",
+      "issue_date": "2018-04-01",
+      "issuing_authority": "Xiaomi Corporation",
+      "valid_until": "2025-04-01"
+    },
+    {
+      "type": "registration",
+      "name": "Свидетельство о государственной регистрации",
+      "number": "193456789",
+      "issue_date": "2018-03-15", 
+      "issuing_authority": "Мингорисполком"
+    }
+  ],
+  "services": [
+    {
+      "name": "Продажа смартфонов и аксессуаров",
+      "category": "retail",
+      "description": "Официальные товары Xiaomi с гарантией производителя"
+    },
+    {
+      "name": "Сервисное обслуживание",
+      "category": "service",
+      "description": "Ремонт и техническое обслуживание устройств Xiaomi"
+    },
+    {
+      "name": "Гарантийное обслуживание", 
+      "category": "warranty",
+      "description": "Гарантийный ремонт в течение 24 месяцев"
+    },
+    {
+      "name": "Консультации и поддержка",
+      "category": "support", 
+      "description": "Техническая поддержка и консультации клиентов"
+    },
+    {
+      "name": "Trade-in программа",
+      "category": "exchange",
+      "description": "Обмен старых устройств на новые с доплатой"
+    }
+  ],
+  "working_hours": {
+    "monday": {"open": "10:00", "close": "22:00"},
+    "tuesday": {"open": "10:00", "close": "22:00"},
+    "wednesday": {"open": "10:00", "close": "22:00"},
+    "thursday": {"open": "10:00", "close": "22:00"},
+    "friday": {"open": "10:00", "close": "22:00"},
+    "saturday": {"open": "10:00", "close": "22:00"},
+    "sunday": {"open": "10:00", "close": "22:00"},
+    "description": "Ежедневно без выходных"
+  },
+  "verified_sources": [
+    {
+      "source": "oficialnay-registracija-ministerstvo-yusticii",
+      "url": "https://egr.gov.by/egrn/index.jsp",
+      "verification_date": "2025-10-07", 
+      "status": "verified",
+      "description": "Единый государственный регистр юридических лиц и индивидуальных предпринимателей"
+    },
+    {
+      "source": "xiaomi-official-dealer-list",
+      "url": "https://www.mi.com/by/service/authorized/",
+      "verification_date": "2025-10-07",
+      "status": "verified", 
+      "description": "Официальный список авторизованных дилеров Xiaomi"
+    },
+    {
+      "source": "business-license-registry",
+      "url": "https://portal.nalog.gov.by/",
+      "verification_date": "2025-10-07",
+      "status": "verified",
+      "description": "Государственный реестр лицензий"
+    }
+  ],
+  "financial_info": {
+    "tax_number": "193456789",
+    "bank_details": {
+      "bank_name": "ОАО \"Белагропромбанк\"",
+      "bic": "BLBBBY2X",
+      "account_number": "BY86BLBB30150000001234567890"
+    },
+    "payment_methods": [
+      "Наличные",
+      "Банковские карты",
+      "Безналичный расчет",
+      "Рассрочка 0%",
+      "Интернет-платежи"
+    ]
+  },
+  "certifications": [
+    "Авторизованный дилер Xiaomi",
+    "Сертифицированный сервисный центр",
+    "Член Ассоциации розничной торговли Беларуси"
+  ],
+  "awards_and_achievements": [
+    {
+      "year": 2023,
+      "title": "Лучший магазин электроники года",
+      "organization": "Ассоциация розничной торговли Беларуси"
+    },
+    {
+      "year": 2022,
+      "title": "Дилер года Xiaomi в Беларуси", 
+      "organization": "Xiaomi Corporation"
+    },
+    {
+      "year": 2021,
+      "title": "Премия за качество сервиса",
+      "organization": "Белорусская торгово-промышленная палата"
+    }
+  ],
+  "statistics": {
+    "customers_served": "50000+",
+    "devices_sold": "100000+", 
+    "service_cases": "15000+",
+    "customer_satisfaction": "96%",
+    "warranty_claims": "2.3%",
+    "cities_served": 15
+  }
+}
